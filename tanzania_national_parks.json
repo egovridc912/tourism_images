@@ -1,0 +1,645 @@
+{
+  "tanzania_national_parks": {
+    "metadata": {
+      "total_parks": 16,
+      "total_regions": 1,
+      "generated_date": "2025-11-25",
+      "description": "Complete listing of Tanzania National Parks and regional attractions with their images"
+    },
+    "parks": [
+      {
+        "id": 1,
+        "name": "Arusha National Park",
+        "folder_name": "Arusha_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Arusha_National_Park/",
+        "description": "Discover and explore the diversity",
+        "images": [
+          {
+            "filename": "0030_Arusha_National_Park_Discover_and_explore_the_diversity____Read_More.jpg",
+            "description": "Arusha's diverse grasslands and forest fringes",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Arusha_National_Park/0030_Arusha_National_Park_Discover_and_explore_the_diversity____Read_More.jpg"
+          },
+          {
+            "filename": "Giraffa.jpg",
+            "description": "A friendly giraffe under Arusha's sky",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Arusha_National_Park/Giraffa.jpg"
+          },
+          {
+            "filename": "icon-of-tanzania_52227182494_o.jpg",
+            "description": "Iconic Tanzanian landscape symbol",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Arusha_National_Park/icon-of-tanzania_52227182494_o.jpg"
+          }
+        ],
+        "image_count": 3
+      },
+      {
+        "id": 2,
+        "name": "Burigi-Chato National Park",
+        "folder_name": "Burigi_Chato_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Burigi_Chato_National_Park/",
+        "description": "The National Park is situated close to the borders",
+        "images": [
+          {
+            "filename": "0029_Burigi-Chato_National_Park_The_National_Park_is_situated_close____Read_More.jpg",
+            "description": "Scenic overview of Burigi-Chato's border region wildlife",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Burigi_Chato_National_Park/0029_Burigi-Chato_National_Park_The_National_Park_is_situated_close____Read_More.jpg"
+          },
+          {
+            "filename": "0049_Burigi-Chato_National_Park_The_National_Park_is_situated_close____Read_More.jpg",
+            "description": "Wildlife and landscape at Burigi-Chato near international borders",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Burigi_Chato_National_Park/0049_Burigi-Chato_National_Park_The_National_Park_is_situated_close____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 3,
+        "name": "Gombe Stream National Park",
+        "folder_name": "Gombe_Stream_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Gombe_Stream_National_Park/",
+        "description": "A thin strip of ancient forest famous for chimpanzee research",
+        "images": [
+          {
+            "filename": "0031_Gombe_National_Park_It_is_a_thin_strip_of_ancient_fores____Read_More.jpg",
+            "description": "Ancient forest strip of Gombe where chimpanzees thrive",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Gombe_Stream_National_Park/0031_Gombe_National_Park_It_is_a_thin_strip_of_ancient_fores____Read_More.jpg"
+          },
+          {
+            "filename": "0051_Gombe_National_Park_It_is_a_thin_strip_of_ancient_fores____Read_More.jpg",
+            "description": "Research site in Gombe's pristine ancient forest",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Gombe_Stream_National_Park/0051_Gombe_National_Park_It_is_a_thin_strip_of_ancient_fores____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 4,
+        "name": "Katavi National Park",
+        "folder_name": "Katavi_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Katavi_National_Park/",
+        "description": "Explore and discover the true wilderness",
+        "images": [
+          {
+            "filename": "0026_Katavi_National_Park_Explore_and_discover_the_true_wilde____Read_More.jpg",
+            "description": "Untamed wilderness landscape of Katavi National Park",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Katavi_National_Park/0026_Katavi_National_Park_Explore_and_discover_the_true_wilde____Read_More.jpg"
+          },
+          {
+            "filename": "0046_Katavi_National_Park_Explore_and_discover_the_true_wilde____Read_More.jpg",
+            "description": "Remote wilderness adventure in Katavi's pristine environment",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Katavi_National_Park/0046_Katavi_National_Park_Explore_and_discover_the_true_wilde____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 5,
+        "name": "Kilimanjaro National Park",
+        "folder_name": "Kilimanjaro_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Kilimanjaro_National_Park/",
+        "description": "Crowned by Mount Kilimanjaro, Africa's highest peak",
+        "images": [
+          {
+            "filename": "0021_5-Day_Explore_Top_Tanzania_Safari_Park__Kilimanjaro_Hike__840_pp__USD__Tanzania_.jpg",
+            "description": "Five-day Kilimanjaro hiking adventure expedition",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Kilimanjaro_National_Park/0021_5-Day_Explore_Top_Tanzania_Safari_Park__Kilimanjaro_Hike__840_pp__USD__Tanzania_.jpg"
+          },
+          {
+            "filename": "0027_Kilimanjaro_National_Park_Crowned_by_the_Mount_Kilimanjaro__A____Read_More.jpg",
+            "description": "Majestic Mount Kilimanjaro, Africa's highest peak",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Kilimanjaro_National_Park/0027_Kilimanjaro_National_Park_Crowned_by_the_Mount_Kilimanjaro__A____Read_More.jpg"
+          },
+          {
+            "filename": "0047_Kilimanjaro_National_Park_Crowned_by_the_Mount_Kilimanjaro__A____Read_More.jpg",
+            "description": "Snow-capped Kilimanjaro summit towering over Africa",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Kilimanjaro_National_Park/0047_Kilimanjaro_National_Park_Crowned_by_the_Mount_Kilimanjaro__A____Read_More.jpg"
+          }
+        ],
+        "image_count": 3
+      },
+      {
+        "id": 6,
+        "name": "Lake Manyara National Park",
+        "folder_name": "Lake_Manyara_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Lake_Manyara_National_Park/",
+        "description": "On the floor of the Great Rift Valley",
+        "images": [
+          {
+            "filename": "0025_Lake_Manyara_National_Park_On_the_floor_of__the_Great_Rift_Val____Read_More.jpg",
+            "description": "Great Rift Valley floor landscape at Lake Manyara",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Lake_Manyara_National_Park/0025_Lake_Manyara_National_Park_On_the_floor_of__the_Great_Rift_Val____Read_More.jpg"
+          },
+          {
+            "filename": "0045_Lake_Manyara_National_Park_On_the_floor_of__the_Great_Rift_Val____Read_More.jpg",
+            "description": "Stunning Rift Valley scenery with Lake Manyara waters",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Lake_Manyara_National_Park/0045_Lake_Manyara_National_Park_On_the_floor_of__the_Great_Rift_Val____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 7,
+        "name": "Mahale Mountains National Park",
+        "folder_name": "Mahale_Mountains_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mahale_Mountains_National_Park/",
+        "description": "Contains the world's largest population of wild chimpanzees",
+        "images": [
+          {
+            "filename": "0032_Mahale_Mountains_National_Park_Mahale_contains_at_least_world_s_la____Read_More.jpg",
+            "description": "World's largest wild chimpanzee population habitat in Mahale",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mahale_Mountains_National_Park/0032_Mahale_Mountains_National_Park_Mahale_contains_at_least_world_s_la____Read_More.jpg"
+          },
+          {
+            "filename": "0052_Mahale_Mountains_National_Park_Mahale_contains_at_least_world_s_la____Read_More.jpg",
+            "description": "Pristine mountain forest home to numerous chimpanzee families",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mahale_Mountains_National_Park/0052_Mahale_Mountains_National_Park_Mahale_contains_at_least_world_s_la____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 8,
+        "name": "Mikumi National Park",
+        "folder_name": "Mikumi_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mikumi_National_Park/",
+        "description": "Because of its accessibility, Mikumi is popular for safari",
+        "images": [
+          {
+            "filename": "0024_Mikumi_National_Park_Because_of_its_accessibility_Mikumi____Read_More.jpg",
+            "description": "Accessible safari destination in Mikumi National Park",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mikumi_National_Park/0024_Mikumi_National_Park_Because_of_its_accessibility_Mikumi____Read_More.jpg"
+          },
+          {
+            "filename": "0044_Mikumi_National_Park_Because_of_its_accessibility_Mikumi____Read_More.jpg",
+            "description": "Popular safari wildlife viewing at easily reached Mikumi",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mikumi_National_Park/0044_Mikumi_National_Park_Because_of_its_accessibility_Mikumi____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 9,
+        "name": "Mkomazi National Park",
+        "folder_name": "Mkomazi_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mkomazi_National_Park/",
+        "description": "Located in the northeastern region of Tanzania",
+        "images": [
+          {
+            "filename": "0036_Mkomazi_National_Park__The_Park_is_located_in_the_in_the____Read_More.jpg",
+            "description": "Northeastern Tanzania's diverse Mkomazi landscape",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mkomazi_National_Park/0036_Mkomazi_National_Park__The_Park_is_located_in_the_in_the____Read_More.jpg"
+          },
+          {
+            "filename": "0056_Mkomazi_National_Park__The_Park_is_located_in_the_in_the____Read_More.jpg",
+            "description": "Wildlife conservation area in northeastern Mkomazi region",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Mkomazi_National_Park/0056_Mkomazi_National_Park__The_Park_is_located_in_the_in_the____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 10,
+        "name": "Ngorongoro Conservation Area",
+        "folder_name": "Ngorongoro_Conservation_Area",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/",
+        "description": "UNESCO World Heritage Site with the famous crater",
+        "images": [
+          {
+            "filename": "0011_hadzabe.jpg",
+            "description": "Traditional Hadzabe people in their ancestral homeland",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0011_hadzabe.jpg"
+          },
+          {
+            "filename": "0012_Olduvai_Gorge2.jpg",
+            "description": "Historic Olduvai Gorge archaeological site",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0012_Olduvai_Gorge2.jpg"
+          },
+          {
+            "filename": "0030_hadzabe.jpg",
+            "description": "Hadzabe hunter-gatherers demonstrating traditional skills",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0030_hadzabe.jpg"
+          },
+          {
+            "filename": "0031_Olduvai_Gorge2.jpg",
+            "description": "Cradle of mankind at Olduvai Gorge excavation site",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0031_Olduvai_Gorge2.jpg"
+          },
+          {
+            "filename": "0034_hadzabe.jpg",
+            "description": "Cultural heritage of the indigenous Hadzabe tribe",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0034_hadzabe.jpg"
+          },
+          {
+            "filename": "0035_Olduvai_Gorge2.jpg",
+            "description": "Geological formations at the famous Olduvai Gorge",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0035_Olduvai_Gorge2.jpg"
+          },
+          {
+            "filename": "0038_ngo.jpg",
+            "description": "Breathtaking Ngorongoro Crater landscape view",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Ngorongoro_Conservation_Area/0038_ngo.jpg"
+          }
+        ],
+        "image_count": 7
+      },
+      {
+        "id": 11,
+        "name": "Nyerere National Park",
+        "folder_name": "Nyerere_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Nyerere_National_Park/",
+        "description": "Now the largest National Park in Africa (formerly Selous)",
+        "images": [
+          {
+            "filename": "0017_Nyerere_National_Park_Now_the_Largest_National_Park_in_Af____Read_More.jpg",
+            "description": "Africa's largest national park - expansive Nyerere wilderness",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Nyerere_National_Park/0017_Nyerere_National_Park_Now_the_Largest_National_Park_in_Af____Read_More.jpg"
+          },
+          {
+            "filename": "0037_Nyerere_National_Park_Now_the_Largest_National_Park_in_Af____Read_More.jpg",
+            "description": "Vast landscapes of Nyerere, formerly known as Selous",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Nyerere_National_Park/0037_Nyerere_National_Park_Now_the_Largest_National_Park_in_Af____Read_More.jpg"
+          },
+          {
+            "filename": "0057_Nyerere_National_Park_Now_the_Largest_National_Park_in_Af____Read_More.jpg",
+            "description": "Untamed African wilderness in massive Nyerere ecosystem",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Nyerere_National_Park/0057_Nyerere_National_Park_Now_the_Largest_National_Park_in_Af____Read_More.jpg"
+          }
+        ],
+        "image_count": 3
+      },
+      {
+        "id": 12,
+        "name": "Rubondo Islands National Park",
+        "folder_name": "Rubondo_Islands_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Rubondo_Islands_National_Park/",
+        "description": "Explore the chimps habituation experience on Lake Victoria",
+        "images": [
+          {
+            "filename": "0034_Rubondo_Islands_National_Park__Explore_the_chimps_habituation_exp____Read_More.jpg",
+            "description": "Chimpanzee habituation experience on Lake Victoria's islands",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Rubondo_Islands_National_Park/0034_Rubondo_Islands_National_Park__Explore_the_chimps_habituation_exp____Read_More.jpg"
+          },
+          {
+            "filename": "0054_Rubondo_Islands_National_Park__Explore_the_chimps_habituation_exp____Read_More.jpg",
+            "description": "Island sanctuary for chimps on Africa's largest lake",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Rubondo_Islands_National_Park/0054_Rubondo_Islands_National_Park__Explore_the_chimps_habituation_exp____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 13,
+        "name": "Saadani National Park",
+        "folder_name": "Saadani_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Saadani_National_Park/",
+        "description": "Along the coast of Indian Ocean - unique beach and wildlife combination",
+        "images": [
+          {
+            "filename": "0020_Saadani_National_Park_Along_the_coast_of_Indian_ocean_in____Read_More.jpg",
+            "description": "Unique coastal wildlife meets Indian Ocean beaches",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Saadani_National_Park/0020_Saadani_National_Park_Along_the_coast_of_Indian_ocean_in____Read_More.jpg"
+          },
+          {
+            "filename": "0040_Saadani_National_Park_Along_the_coast_of_Indian_ocean_in____Read_More.jpg",
+            "description": "Safari and beach paradise along Tanzania's coast",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Saadani_National_Park/0040_Saadani_National_Park_Along_the_coast_of_Indian_ocean_in____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 14,
+        "name": "Serengeti National Park",
+        "folder_name": "Serengeti_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/",
+        "description": "The Maasai people call it 'Siringet' - home of the Great Migration",
+        "images": [
+          {
+            "filename": "0000_photo.jpg",
+            "description": "Iconic Serengeti landscape photography",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0000_photo.jpg"
+          },
+          {
+            "filename": "0002_Serengeti_National_Park_safari.jpg",
+            "description": "Classic Serengeti safari adventure experience",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0002_Serengeti_National_Park_safari.jpg"
+          },
+          {
+            "filename": "0004_About_Serengeti_National_Park.jpg",
+            "description": "Comprehensive guide to Serengeti National Park",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0004_About_Serengeti_National_Park.jpg"
+          },
+          {
+            "filename": "0004_Rates__USD___220_________________to__________________625_________________pp_day_.jpg",
+            "description": "Safari pricing guide from $220 to $625 per person daily",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0004_Rates__USD___220_________________to__________________625_________________pp_day_.jpg"
+          },
+          {
+            "filename": "0005_Serengeti_National_Park_special_offers.jpg",
+            "description": "Exclusive Serengeti safari special deals and offers",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0005_Serengeti_National_Park_special_offers.jpg"
+          },
+          {
+            "filename": "0006_Getting_to_Serengeti_National_Park.jpg",
+            "description": "Travel routes and access to Serengeti National Park",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0006_Getting_to_Serengeti_National_Park.jpg"
+          },
+          {
+            "filename": "0007_Serengeti_accommodation.jpg",
+            "description": "Luxury lodges and camps in Serengeti",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0007_Serengeti_accommodation.jpg"
+          },
+          {
+            "filename": "0008_All_accommodations_Browse_all_camps___lodges.jpg",
+            "description": "Complete directory of Serengeti camps and lodges",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0008_All_accommodations_Browse_all_camps___lodges.jpg"
+          },
+          {
+            "filename": "0009_Search_by_location_Browse_Serengeti_safari_areas.jpg",
+            "description": "Different Serengeti regions and safari areas guide",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0009_Search_by_location_Browse_Serengeti_safari_areas.jpg"
+          },
+          {
+            "filename": "0010_Search_by_season_Follow_the_Great_Migration.jpg",
+            "description": "Seasonal guide to following the Great Migration",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0010_Search_by_season_Follow_the_Great_Migration.jpg"
+          },
+          {
+            "filename": "0011_View_Klein_s_Camp_information.jpg",
+            "description": "Klein's Camp luxury accommodation details",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0011_View_Klein_s_Camp_information.jpg"
+          },
+          {
+            "filename": "0012_Star_quality_and_pricing_indicator_AndBeyond_Kleins_Camp.jpg",
+            "description": "AndBeyond Klein's Camp star rating and pricing",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0012_Star_quality_and_pricing_indicator_AndBeyond_Kleins_Camp.jpg"
+          },
+          {
+            "filename": "0013_View_Four_Seasons_Serengeti_Safari_Lodge.jpg",
+            "description": "Four Seasons Serengeti Safari Lodge details",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0013_View_Four_Seasons_Serengeti_Safari_Lodge.jpg"
+          },
+          {
+            "filename": "0014_Star_quality_and_pricing_indicator_Four_Seasons_Serengeti.jpg",
+            "description": "Four Seasons Serengeti quality rating and prices",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0014_Star_quality_and_pricing_indicator_Four_Seasons_Serengeti.jpg"
+          },
+          {
+            "filename": "0015_One_Nature_Nyaruswiga_Serengeti.jpg",
+            "description": "One Nature Nyaruswiga luxury Serengeti camp",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0015_One_Nature_Nyaruswiga_Serengeti.jpg"
+          },
+          {
+            "filename": "0016_Star_quality_and_pricing_indicator_One_Nature_Nyaruswiga.jpg",
+            "description": "One Nature Nyaruswiga star rating and pricing guide",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0016_Star_quality_and_pricing_indicator_One_Nature_Nyaruswiga.jpg"
+          },
+          {
+            "filename": "0018_Exhilarating_wildlife_Wildlife_up_close_and_personal.jpg",
+            "description": "Close wildlife encounters in Serengeti wilderness",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0018_Exhilarating_wildlife_Wildlife_up_close_and_personal.jpg"
+          },
+          {
+            "filename": "0019_7-Day_All-Inclusive_Luxury_Family_Safari__3_109_to__3_527_pp__USD__Tanzania__Pri.jpg",
+            "description": "Seven-day luxury family safari package $3,109-$3,527",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0019_7-Day_All-Inclusive_Luxury_Family_Safari__3_109_to__3_527_pp__USD__Tanzania__Pri.jpg"
+          },
+          {
+            "filename": "0019_Balloon_safari_View_endless_plains_From_above.jpg",
+            "description": "Hot air balloon safari over endless Serengeti plains",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0019_Balloon_safari_View_endless_plains_From_above.jpg"
+          },
+          {
+            "filename": "0020_The_Great_Migration_The_world_s_biggest_wildlife_spectacle.jpg",
+            "description": "The Great Migration - world's greatest wildlife spectacle",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0020_The_Great_Migration_The_world_s_biggest_wildlife_spectacle.jpg"
+          },
+          {
+            "filename": "0021_Grumeti_Game_Reserve_Private_safari_area_ajacent_to_Serengeti.jpg",
+            "description": "Grumeti Game Reserve private area adjacent to Serengeti",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0021_Grumeti_Game_Reserve_Private_safari_area_ajacent_to_Serengeti.jpg"
+          },
+          {
+            "filename": "0022_Serengeti_Mara_Prime_wildlife_area_bordering_Kenya.jpg",
+            "description": "Serengeti-Mara ecosystem bordering Kenya wildlife area",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0022_Serengeti_Mara_Prime_wildlife_area_bordering_Kenya.jpg"
+          },
+          {
+            "filename": "0022_Serengeti_National_Park_The_Maasai_people_call_it___Siringe____Read_More.jpg",
+            "description": "Maasai heritage - Serengeti known as 'Siringet'",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0022_Serengeti_National_Park_The_Maasai_people_call_it___Siringe____Read_More.jpg"
+          },
+          {
+            "filename": "0023_5-Day_Ndutu_Migration_-Calving_Season__1_360_to__1_440_pp__USD__Tanzania__Privat.jpg",
+            "description": "Five-day Ndutu calving season migration safari $1,360-$1,440",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0023_5-Day_Ndutu_Migration_-Calving_Season__1_360_to__1_440_pp__USD__Tanzania__Privat.jpg"
+          },
+          {
+            "filename": "0023_Maasai_people_and_culture_in_Serengeti.jpg",
+            "description": "Rich Maasai cultural heritage in Serengeti region",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0023_Maasai_people_and_culture_in_Serengeti.jpg"
+          },
+          {
+            "filename": "0024_Luxury_accommodation_A_luxury_home_from_home.jpg",
+            "description": "Luxury Serengeti accommodations - home away from home",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0024_Luxury_accommodation_A_luxury_home_from_home.jpg"
+          },
+          {
+            "filename": "0025_Southeastern_plains___Ndutu_Woodlands_and_open_savanna.jpg",
+            "description": "Southeastern Ndutu plains with woodlands and savanna",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0025_Southeastern_plains___Ndutu_Woodlands_and_open_savanna.jpg"
+          },
+          {
+            "filename": "0033_Kitulo_National_Park_Nicknamed__Serengeti_of_Flowers__Ki____Read_More.jpg",
+            "description": "Kitulo National Park - nicknamed 'Serengeti of Flowers'",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0033_Kitulo_National_Park_Nicknamed__Serengeti_of_Flowers__Ki____Read_More.jpg"
+          },
+          {
+            "filename": "0042_Serengeti_National_Park_The_Maasai_people_call_it___Siringe____Read_More.jpg",
+            "description": "Traditional Maasai name 'Siringet' for endless plains",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0042_Serengeti_National_Park_The_Maasai_people_call_it___Siringe____Read_More.jpg"
+          },
+          {
+            "filename": "0053_Kitulo_National_Park_Nicknamed__Serengeti_of_Flowers__Ki____Read_More.jpg",
+            "description": "Floral paradise - Kitulo's colorful wildflower displays",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Serengeti_National_Park/0053_Kitulo_National_Park_Nicknamed__Serengeti_of_Flowers__Ki____Read_More.jpg"
+          }
+        ],
+        "image_count": 30
+      },
+      {
+        "id": 15,
+        "name": "Tarangire National Park",
+        "folder_name": "Tarangire_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Tarangire_National_Park/",
+        "description": "Famous for its many African Elephants and baobab trees",
+        "images": [
+          {
+            "filename": "0021_Tarangire_National_Park_Tarangire__with_many_African_Elepha____Read_More.jpg",
+            "description": "African elephants among iconic baobab trees in Tarangire",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Tarangire_National_Park/0021_Tarangire_National_Park_Tarangire__with_many_African_Elepha____Read_More.jpg"
+          },
+          {
+            "filename": "0041_Tarangire_National_Park_Tarangire__with_many_African_Elepha____Read_More.jpg",
+            "description": "Large elephant herds roaming Tarangire's baobab landscape",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Tarangire_National_Park/0041_Tarangire_National_Park_Tarangire__with_many_African_Elepha____Read_More.jpg"
+          }
+        ],
+        "image_count": 2
+      },
+      {
+        "id": 16,
+        "name": "Udzungwa Mountains National Park",
+        "folder_name": "Udzungwa_Mountains_National_Park",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Udzungwa_Mountains_National_Park/",
+        "description": "Part of the Eastern Arc Mountains with endemic species",
+        "images": [
+          {
+            "filename": "0035_Udzungwa_Mountains_National_Park_Being_Part_of_theEastern_Arc_Mounta____Read_Mor.jpg",
+            "description": "Eastern Arc Mountains biodiversity hotspot in Udzungwa",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Udzungwa_Mountains_National_Park/0035_Udzungwa_Mountains_National_Park_Being_Part_of_theEastern_Arc_Mounta____Read_Mor.jpg"
+          },
+          {
+            "filename": "0055_Udzungwa_Mountains_National_Park_Being_Part_of_theEastern_Arc_Mounta____Read_Mor.jpg",
+            "description": "Endemic species sanctuary in ancient Eastern Arc forests",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Udzungwa_Mountains_National_Park/0055_Udzungwa_Mountains_National_Park_Being_Part_of_theEastern_Arc_Mounta____Read_Mor.jpg"
+          }
+        ],
+        "image_count": 2
+      }
+    ],
+    "regional_attractions": [
+      {
+        "id": 1,
+        "name": "Dodoma Region",
+        "folder_name": "Dodoma",
+        "raw_base_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/",
+        "description": "Tanzania's capital city and surrounding cultural and natural attractions",
+        "type": "Regional Attractions",
+        "images": [
+          {
+            "filename": "A_Fox_in_Swagaswaga_Game_Reserve.png",
+            "description": "Wild fox roaming Swagaswaga Game Reserve",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/A_Fox_in_Swagaswaga_Game_Reserve.png"
+          },
+          {
+            "filename": "Buffalo_at_Swagaswaga_Game_Reserve.png",
+            "description": "Buffalo grazing in Swagaswaga reserve",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Buffalo_at_Swagaswaga_Game_Reserve.png"
+          },
+          {
+            "filename": "Gonga_Hot_Spring_at_Chemba.png",
+            "description": "Natural hot spring at Gonga, Chemba",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Gonga_Hot_Spring_at_Chemba.png"
+          },
+          {
+            "filename": "Hombolo Dam.png",
+            "description": "Hombolo Dam water reservoir and irrigation project",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Hombolo Dam.png"
+          },
+          {
+            "filename": "Mtera Dam.png",
+            "description": "Mtera Dam hydroelectric power and water supply",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Mtera Dam.png"
+          },
+          {
+            "filename": "Nyerere_Square_in_Dodoma.png",
+            "description": "Central square in Tanzania's capital",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Nyerere_Square_in_Dodoma.png"
+          },
+          {
+            "filename": "Part_of_the_Cemetery_Where_the_Igandu_Train_Accident_Casualties_Were_Buried_in.png",
+            "description": "Memorial cemetery for Igandu train accident victims",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Part_of_the_Cemetery_Where_the_Igandu_Train_Accident_Casualties_Were_Buried_in.png"
+          },
+          {
+            "filename": "Part_of_the_Commonwealth_War_Cemetery_Taken_from_Different_Views.png",
+            "description": "Commonwealth War Cemetery memorial site",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/Part_of_the_Commonwealth_War_Cemetery_Taken_from_Different_Views.png"
+          },
+          {
+            "filename": "The First Mess Used by Mwalimu Nyerere at Chamwino Ikulu Village.png",
+            "description": "Historic dining hall of President Nyerere at Chamwino State House",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_First_Mess_Used_by_Mwalimu_Nyerere_at_Chamwino_Ikulu_Village.png"
+          },
+          {
+            "filename": "The Magufuli Government City.png",
+            "description": "Modern government administrative city complex",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_Magufuli_Government_City.png"
+          },
+          {
+            "filename": "The_Nyati_Mchoya_Group_in_Action.png",
+            "description": "Traditional Nyati Mchoya cultural performance group",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_Nyati_Mchoya_Group_in_Action.png"
+          },
+          {
+            "filename": "The_Rock_Painting_in_Kondoa.png",
+            "description": "Ancient rock art paintings in Kondoa UNESCO site",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_Rock_Painting_in_Kondoa.png"
+          },
+          {
+            "filename": "The_Sandawe_Group_in_Briefing_Cultures_and_Traditions.png",
+            "description": "Sandawe people sharing cultural traditions and heritage",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_Sandawe_Group_in_Briefing_Cultures_and_Traditions.png"
+          },
+          {
+            "filename": "The_Spring_that_covers_the_name_behind_Dodoma.png",
+            "description": "Natural spring that gave Dodoma its name",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_Spring_that_covers_the_name_behind_Dodoma.png"
+          },
+          {
+            "filename": "The_Sycamore_Tree_Used_as_a_Meeting_Place_by_Chief_Mazengo_of_the_Gogo.png",
+            "description": "Historic sycamore tree - Chief Mazengo's traditional meeting place",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_Sycamore_Tree_Used_as_a_Meeting_Place_by_Chief_Mazengo_of_the_Gogo.png"
+          },
+          {
+            "filename": "The_view_of_Dodoma_City.png",
+            "description": "Panoramic cityscape view of Dodoma, Tanzania's capital",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/The_view_of_Dodoma_City.png"
+          },
+          {
+            "filename": "White-faced_Whistling_Ducks_Dendrocygna_Viduata.png",
+            "description": "White-faced whistling ducks in Dodoma wetlands",
+            "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/Dodoma/White-faced_Whistling_Ducks_Dendrocygna_Viduata.png"
+          }
+        ],
+        "image_count": 17,
+        "attractions_included": [
+          "Swagaswaga Game Reserve",
+          "Gonga Hot Spring",
+          "Hombolo Dam",
+          "Mtera Dam",
+          "Nyerere Square",
+          "Commonwealth War Cemetery",
+          "Kondoa Rock Paintings",
+          "Cultural Heritage Sites"
+        ]
+      }
+    ],
+    "summary": {
+      "total_images": 84,
+      "national_parks_images": 67,
+      "regional_attractions_images": 17,
+      "parks_with_most_images": {
+        "park": "Serengeti National Park",
+        "image_count": 30
+      },
+      "parks_with_least_images": {
+        "parks": [
+          "Burigi-Chato National Park",
+          "Gombe Stream National Park", 
+          "Katavi National Park",
+          "Lake Manyara National Park",
+          "Mahale Mountains National Park",
+          "Mikumi National Park",
+          "Mkomazi National Park",
+          "Rubondo Islands National Park",
+          "Saadani National Park",
+          "Tarangire National Park",
+          "Udzungwa Mountains National Park"
+        ],
+        "image_count": 2
+      }
+    }
+  }
+}
