@@ -3,8 +3,10 @@
     "metadata": {
       "total_parks": 16,
       "total_regions": 1,
+      "total_videos": 2,
       "generated_date": "2025-11-25",
-      "description": "Complete listing of Tanzania National Parks and regional attractions with their images"
+      "last_updated": "2025-11-26",
+      "description": "Complete listing of Tanzania National Parks, regional attractions with their images, and promotional videos"
     },
     "parks": [
       {
@@ -618,8 +620,10 @@
     ],
     "summary": {
       "total_images": 84,
+      "total_videos": 2,
       "national_parks_images": 67,
       "regional_attractions_images": 17,
+      "promotional_videos": 2,
       "parks_with_most_images": {
         "park": "Serengeti National Park",
         "image_count": 30
@@ -640,6 +644,44 @@
         ],
         "image_count": 2
       }
+    },
+    "videos": {
+      "metadata": {
+        "total_videos": 2,
+        "description": "Collection of promotional and documentary videos showcasing Tanzania's tourist attractions"
+      },
+      "video_content": [
+        {
+          "id": 1,
+          "filename": "tanzania_attractions.mp4",
+          "title": "Tanzania Tourist Attractions Showcase",
+          "description": "Comprehensive video tour highlighting Tanzania's diverse tourist attractions including national parks, wildlife, cultural sites, and natural wonders. Features stunning cinematography of the country's most iconic destinations from Serengeti to Kilimanjaro.",
+          "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/video/tanzania_attractions.mp4",
+          "type": "promotional",
+          "content_focus": [
+            "National Parks Overview",
+            "Wildlife Safari Experiences", 
+            "Cultural Heritage Sites",
+            "Natural Landscapes",
+            "Tourist Activities"
+          ]
+        },
+        {
+          "id": 2,
+          "filename": "welcome_to_tanzania.mp4",
+          "title": "Welcome to Tanzania - Official Tourism Video",
+          "description": "Official welcome video presenting Tanzania as East Africa's premier tourist destination. Showcases the warmth of Tanzanian hospitality, diverse ecosystems, rich cultural heritage, and world-class safari experiences that await visitors.",
+          "raw_url": "https://raw.githubusercontent.com/egovridc912/tourism_images/main/video/welcome_to_tanzania.mp4",
+          "type": "welcome/introduction",
+          "content_focus": [
+            "Tourism Introduction",
+            "Cultural Diversity",
+            "Safari Experiences",
+            "Hospitality Showcase",
+            "Travel Inspiration"
+          ]
+        }
+      ]
     }
   }
 }
